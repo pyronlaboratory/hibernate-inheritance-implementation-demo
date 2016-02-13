@@ -1,2 +1,2 @@
 # HIBERNATE_Inheritance
-Implementing Single_Table inheritance through hibernate.
+Implementing Single_Table Inheritance through Hibernate.
